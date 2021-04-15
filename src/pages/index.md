@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  description: La mejor del universo
   extra:
     - name: 'og:type'
       value: website
